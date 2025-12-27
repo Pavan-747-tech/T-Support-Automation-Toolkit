@@ -74,6 +74,13 @@ This toolkit uses real-world IT commands commonly applied in corporate and enter
 ![Cleanup](Screenshots/cleanup_temp.png)
 
 
+## 📦 Download
+
+Get the full release here:  
+[IT Support Automation Toolkit v1.0](https://github.com/Pavan-747-tech/IT-Support-Automation-Toolkit/releases/download/v1.0/IT-Support-Automation-Toolkit-v1.0.zip)
+
+
+
 ---
 
 ## 🔹 Use Case
